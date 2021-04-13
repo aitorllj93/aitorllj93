@@ -2,14 +2,17 @@
 
 <p align='center'>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=d3v0ps.d3v0ps" />
-  <a href="https://github.com/dhwaj1902?tab=followers">
-  <img src="https://img.shields.io/github/followers/d3v0ps.svg?style=social&label=Follow" />
-    </a>
+  <a href="https://github.com/d3v0ps?tab=followers">
+    <img src="https://img.shields.io/github/followers/d3v0ps.svg?style=social&label=Follow" />
+  </a>
 </p>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/aitor-llamas-jimenez-3b760210a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/3068081/aitorllj93">
+    <img src="https://img.shields.io/badge/stackoverflow-%23F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>&nbsp;&nbsp;
   <!-- a href="https:/twitter.com/dhwaj_gupta">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
@@ -45,6 +48,7 @@
   <img align="center" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </p>
