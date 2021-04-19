@@ -32,26 +32,66 @@
   <summary align='center'>🚀 Languages and Tools</summary>
   <br/>
   <p align="center">
-  <img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Angular-DC0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Nest-EA2744?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/OpenApi-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+    <a href="https://git-scm.com/">
+      <img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </a>
+    <a href="https://code.visualstudio.com/">
+      <img align="center" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
+      <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+      <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    </a>
+    <a href="https://sass-lang.com/">
+      <img align="center" src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </a>
+    <a href="https://www.typescriptlang.org/">
+      <img align="center" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    </a>
+    <a href="https://getbootstrap.com/">
+      <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    </a>
+    <a href="https://angular.io/">
+      <img align="center" src="https://img.shields.io/badge/Angular-DC0031?style=for-the-badge&logo=angular&logoColor=white" />
+    </a>
+    <a href="https://redux.js.org/">
+      <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+    </a>
+    <a href="https://nodejs.org">
+      <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    </a>
+    <a href="https://expressjs.com/">
+      <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+    </a>
+    <a href="https://nestjs.com/">
+      <img align="center" src="https://img.shields.io/badge/Nest-EA2744?style=for-the-badge&logo=nestjs&logoColor=white" />
+    </a>
+    <a href="https://swagger.io/specification/">
+      <img align="center" src="https://img.shields.io/badge/OpenApi-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white" />
+    </a>
+    <a href="https://graphql.org/">
+      <img align="center" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+    </a>
+    <a href="https://www.mongodb.com/">
+      <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    </a>
+    <a href="https://www.postgresql.org/">
+      <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </a>
+    <a href="https://github.com/features/actions">
+      <img align="center" src="https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+    </a>
+    <a href="https://www.heroku.com/">
+      <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+    </a>
+    <a href="https://www.postman.com/">
+      <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+    </a>
 </p>
  </details>
 
