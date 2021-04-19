@@ -113,14 +113,14 @@
 
 <p align='center'>
   <a href="https://github.com/d3v0ps/d3v0ps">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3v0ps&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3v0ps&layout=compact&theme=shades-of-purple" />
   </a>
   <a href="https://github.com/d3v0ps/d3v0ps">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=d3v0ps&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="D3v0ps's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=d3v0ps&show_icons=true&line_height=27&count_private=true&theme=shades-of-purple" alt="D3v0ps's GitHub Stats" />
   </a>
 </p>
 
 
 <p align='center'>
-  <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=d3v0ps&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00"></a>
+  <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=d3v0ps&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C"></a>
 </p>
