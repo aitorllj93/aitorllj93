@@ -8,6 +8,23 @@
 </p>
 
 <p align='center'>
+  <b>Websites</b><br/><br/>
+  <a href="http://aitorllamas.com/" target="_blank">
+    <img src="https://img.shields.io/badge/personal_website-474787.svg?&style=for-the-badge&logo=AIOHTTP&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="http://aitorllamas.com/blog" target="_blank">
+    <img src="https://img.shields.io/badge/blog-84817a.svg?&style=for-the-badge&logo=AIOHTTP&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="http://aitorllamas.com/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-33d9b2.svg?&style=for-the-badge&logo=AIOHTTP&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="http://aitorllamas.com/curriculum-vitae" target="_blank">
+    <img src="https://img.shields.io/badge/curriculum_vitae-ff793f.svg?&style=for-the-badge&logo=AIOHTTP&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+
+<p align='center'>
+  <b>Social Accounts</b><br/><br/>
   <a href="https://www.linkedin.com/in/aitor-llamas-jimenez-3b760210a/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -41,6 +58,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
       <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     </a>
+    <a href="https://pugjs.org/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/pug-A86454?style=for-the-badge&logo=pug&logoColor=white" />
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
       <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     </a>
@@ -59,8 +79,17 @@
     <a href="https://angular.io/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Angular-DC0031?style=for-the-badge&logo=angular&logoColor=white" />
     </a>
+    <a href="http://reactivex.io/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
+    </a>
     <a href="https://redux.js.org/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+    </a>
+    <a href="https://ionicframework.com/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+    </a>
+    <a href="https://capacitorjs.com/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
     </a>
     <a href="https://nodejs.org" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -95,8 +124,8 @@
     <a href="https://www.postman.com/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
     </a>
-</p>
- </details>
+  </p>
+</details>
 
 <p align='center'>
   <b>💻 My workspace</b><br/><br/>
