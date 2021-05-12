@@ -68,6 +68,9 @@
     <a href="https://expressjs.com/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
     </a>
+    <a href="https://socket.io/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+    </a>
     <a href="https://nestjs.com/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Nest-EA2744?style=for-the-badge&logo=nestjs&logoColor=white" />
     </a>
