@@ -17,7 +17,7 @@
   <!-- a href="https:/twitter.com/dhwaj_gupta" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp; -->
-  <a href="https://instagram.com/aitor93" target="_blank">
+  <a href="https://instagram.com/aitor_llamas" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.twitch.tv/d3v0ps" target="_blank">
