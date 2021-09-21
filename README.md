@@ -175,6 +175,12 @@
   <img src="https://img.shields.io/badge/nvidia-gtx%201060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
+<p>
+  <b>🖱  Widgets</b><br/><br/>
+  <img src="https://img.shields.io/badge/Earphones-BOSE%20QuietComfort%2035%20II-%232D2B54.svg?&style=for-the-badge&logo=bose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portable%20Monitor-MSI%20Optix%20MAG161V%2015.6-%232D2B54.svg?&style=for-the-badge&logo=msi&logoColor=white" />
+</p>
+
 ## Stats
 
 <p>
