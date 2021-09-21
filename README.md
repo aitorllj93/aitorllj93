@@ -1,13 +1,13 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/d3v0ps/d3v0ps/master/wave.gif" width="30px">, I'm Aitor Llamas 👨‍💻</h1>
+<h1>Hi <img src="https://raw.githubusercontent.com/d3v0ps/d3v0ps/master/wave.gif" width="30px">, I'm Aitor Llamas 👨‍💻</h1>
 
-<p align='center'>
+<p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=d3v0ps.d3v0ps" />
   <a href="https://github.com/d3v0ps?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/d3v0ps.svg?style=social&label=Follow" />
   </a>
 </p>
 
-<p align='center'>
+<p>
   <b>Websites</b><br/><br/>
   <a href="http://aitorllamas.com/" target="_blank">
     <img src="https://img.shields.io/badge/personal_website-474787.svg?&style=for-the-badge&logo=AIOHTTP&logoColor=white" />
@@ -23,7 +23,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'>
+<p>
   <b>Social Accounts</b><br/><br/>
   <a href="https://www.linkedin.com/in/aitor-llamas-jimenez-3b760210a/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -45,16 +45,12 @@
   </a>&nbsp;&nbsp; -->
 </p>
 
+## Tech Stacks
+
 <details open>
-  <summary align='center'>🚀 Languages and Tools</summary>
+  <summary>Languages</summary>
   <br/>
-  <p align="center">
-    <a href="https://git-scm.com/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    </a>
+  <p>
     <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
       <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     </a>
@@ -73,6 +69,13 @@
     <a href="https://www.typescriptlang.org/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     </a>
+  </p>
+</details>
+
+<details open>
+  <summary>Frontend</summary>
+  <br/>
+  <p>
     <a href="https://getbootstrap.com/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     </a>
@@ -91,6 +94,13 @@
     <a href="https://capacitorjs.com/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
     </a>
+  </p>
+</details>
+
+<details open>
+  <summary>Backend and Database</summary>
+  <br/>
+  <p>
     <a href="https://nodejs.org" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     </a>
@@ -115,11 +125,31 @@
     <a href="https://www.postgresql.org/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     </a>
+  </p>
+</details>
+
+<details open>
+  <summary>CI and Deployment</summary>
+  <br/>
+  <p>
     <a href="https://github.com/features/actions" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
     </a>
     <a href="https://www.heroku.com/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+    </a>
+  </p>
+</details>
+
+<details open>
+  <summary>Tools</summary>
+  <br/>
+  <p>
+    <a href="https://git-scm.com/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     </a>
     <a href="https://www.postman.com/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
@@ -127,32 +157,36 @@
   </p>
 </details>
 
-<p align='center'>
-  <b>💻 My workspace</b><br/><br/>
+## Setup
+
+<p>
+  <b>💻  workspace</b><br/><br/>
   <img src="https://img.shields.io/badge/mac_os-Big_Sur-%23F11651.svg?&style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-iris_plus%20650_1536_MB-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
 </p>
 
-<p align='center'>
-  <b>🎮 My gaming space</b><br/><br/>
+<p>
+  <b>🎮  Gaming PC</b><br/><br/>
   <img src="https://img.shields.io/badge/windows-MSI-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i7%2007th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-<p align='center'>
+## Stats
+
+<p>
   <a href="https://github.com/d3v0ps/d3v0ps">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3v0ps&layout=compact&theme=shades-of-purple" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3v0ps&layout=compact&theme=shades-of-purple" />
   </a>
   <a href="https://github.com/d3v0ps/d3v0ps">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=d3v0ps&show_icons=true&line_height=27&count_private=true&theme=shades-of-purple" alt="D3v0ps's GitHub Stats" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=d3v0ps&show_icons=true&line_height=27&count_private=true&theme=shades-of-purple" alt="D3v0ps's GitHub Stats" />
   </a>
 </p>
 
 
-<p align='center'>
+<p>
   <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=d3v0ps&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C"></a>
 </p>
