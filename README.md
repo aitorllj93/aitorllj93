@@ -22,15 +22,6 @@
     <img src="https://img.shields.io/badge/curriculum_vitae-ff793f.svg?&style=for-the-badge&logo=AIOHTTP&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
-<p>
-  <b>Active Projects</b><br/><br/>
-  <a href="http://github.com/aitorllj93/metaverse" target="_blank">
-    <img src="https://img.shields.io/badge/cf_metaverse-474787.svg?&style=for-the-badge&logo=AIOHTTP&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="http://github.com/central-factory/foundation" target="_blank">
-    <img src="https://img.shields.io/badge/cf_foundation-474787.svg?&style=for-the-badge&logo=AIOHTTP&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
 
 <p>
   <b>Social Accounts</b><br/><br/>
