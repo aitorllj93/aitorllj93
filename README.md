@@ -192,7 +192,3 @@
   </a>
 </p>
 
-
-<p>
-  <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=aitorllj93&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C"></a>
-</p>
