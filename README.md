@@ -34,12 +34,12 @@
   <!-- a href="https:/twitter.com/dhwaj_gupta" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp; -->
-  <a href="https://instagram.com/aitor_llamas" target="_blank">
+  <!-- <a href="https://instagram.com/aitor_llamas" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://www.twitch.tv/aitorllj93" target="_blank">
+  </a>&nbsp;&nbsp; -->
+  <!-- <a href="https://www.twitch.tv/aitorllj93" target="_blank">
     <img src="https://img.shields.io/badge/twitch-%23772CE8.svg?&style=for-the-badge&logo=twitch&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
    <!-- a href="https://www.facebook.com/dhwaj.iitr" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp; -->
@@ -76,17 +76,33 @@
   <summary>Frontend</summary>
   <br/>
   <p>
-    <a href="https://getbootstrap.com/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <a href="https://htmx.org/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/HTMX-3d72d7?style=for-the-badge&logo=html5&logoColor=white" />
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/Tailwind-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    </a>
+    <a href="https://react.dev/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
     </a>
     <a href="https://angular.io/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Angular-DC0031?style=for-the-badge&logo=angular&logoColor=white" />
     </a>
-    <a href="http://reactivex.io/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
+  </p>
+</details>
+
+<details open>
+  <summary>Meta Frameworks</summary>
+  <br/>
+  <p>
+    <a href="https://astro.build/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/Astro-f368e0?style=for-the-badge&logo=astro&logoColor=white" />
     </a>
-    <a href="https://redux.js.org/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+    <a href="https://nextjs.org/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=react&logoColor=white" />
+    </a>
+    <a href="https://reactnative.dev/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/ReactNative-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
     </a>
     <a href="https://ionicframework.com/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
@@ -165,14 +181,6 @@
   <img src="https://img.shields.io/badge/intel-core%20i5-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-iris_plus%20650_1536_MB-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-</p>
-
-<p>
-  <b>🎮  Gaming PC</b><br/><br/>
-  <img src="https://img.shields.io/badge/windows-MSI-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i7%2007th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 <p>
