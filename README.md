@@ -1,36 +1,31 @@
-<h1>Hi <img src="https://raw.githubusercontent.com/aitorllj93/aitorllj93/master/wave.gif" width="30px">, I'm Aitor Llamas 👨‍💻</h1>
-
-<p>
+<p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aitorllj93.aitorllj93" />
   <a href="https://github.com/aitorllj93?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/aitorllj93.svg?style=social&label=Follow" />
   </a>
 </p>
 
-<p>
-  <b>Websites</b><br/><br/>
-  <a href="http://aitorllamas.com/" target="_blank">
-    <img src="https://img.shields.io/badge/personal_website-474787.svg?&style=for-the-badge&logo=AIOHTTP&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="http://aitorllamas.com/blog" target="_blank">
-    <img src="https://img.shields.io/badge/blog-84817a.svg?&style=for-the-badge&logo=AIOHTTP&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="http://aitorllamas.com/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-33d9b2.svg?&style=for-the-badge&logo=AIOHTTP&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="http://aitorllamas.com/curriculum-vitae" target="_blank">
-    <img src="https://img.shields.io/badge/curriculum_vitae-ff793f.svg?&style=for-the-badge&logo=AIOHTTP&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
+<h1>Hi <img src="https://raw.githubusercontent.com/aitorllj93/aitorllj93/master/wave.gif" width="30px">, I'm Aitor Llamas 👨‍💻</h1>
 
-<p>
-  <b>Social Accounts</b><br/><br/>
-  <a href="https://www.linkedin.com/in/aitor-llamas-jimenez-3b760210a/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
+<details name="sections" open>
+  <summary>
+    <h2>Links of Interest</h2>
+  </summary>
+  <br/>
+  <p>
+    <a href="http://babilim.info/" target="_blank">
+      <img src="https://img.shields.io/badge/babilim.info-84817a.svg?&style=for-the-badge&logo=AIOHTTP&logoColor=white" />
+    </a>&nbsp;&nbsp;
+    <a href="http://aitorllamas.com/" target="_blank">
+      <img src="https://img.shields.io/badge/personal_website-474787.svg?&style=for-the-badge&logo=AIOHTTP&logoColor=white" />
+    </a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/aitor-llamas-jimenez-3b760210a/" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>&nbsp;&nbsp;
+  </p>
+</details>
 
-<details open>
+<details name="sections" open>
   <summary>
     <h2>Tech Stacks</h2>
   </summary>
@@ -110,14 +105,18 @@
   </p>
 </details>
 
-## Stats
-
-<p>
-  <a href="https://github.com/aitorllj93/aitorllj93">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitorllj93&layout=compact&theme=shades-of-purple" />
-  </a>
-  <a href="https://github.com/aitorllj93/aitorllj93">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=aitorllj93&show_icons=true&line_height=27&count_private=true&theme=shades-of-purple" alt="aitorllj93's GitHub Stats" />
-  </a>
-</p>
+<details name="sections" open>
+  <summary>
+    <h2>Stats</h2>
+  </summary>
+  <br/>
+  <p>
+    <a href="https://github.com/aitorllj93/aitorllj93">
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitorllj93&layout=compact&theme=shades-of-purple" />
+    </a>
+    <a href="https://github.com/aitorllj93/aitorllj93">
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=aitorllj93&show_icons=true&line_height=27&count_private=true&theme=shades-of-purple" alt="aitorllj93's GitHub Stats" />
+    </a>
+  </p>
+</details>
 
