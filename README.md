@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h1>Hi <img src="https://raw.githubusercontent.com/aitorllj93/aitorllj93/master/wave.gif" width="30px">, I'm Aitor Llamas 👨‍💻</h1>
+<h1>Hi <img src="https://raw.githubusercontent.com/aitorllj93/aitorllj93/master/wave.gif" width="30px">, I'm Aitor Llamas</h1>
 
 <details name="sections" open>
   <summary>
