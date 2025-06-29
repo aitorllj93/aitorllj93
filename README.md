@@ -30,10 +30,10 @@
   </a>&nbsp;&nbsp;
 </p>
 
-## Tech Stacks
-
 <details open>
-  <summary>Languages</summary>
+  <summary>
+    <h2>Tech Stacks</h2>
+  </summary>
   <br/>
   <p>
     <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
@@ -49,11 +49,6 @@
       <img align="center" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     </a>
   </p>
-</details>
-
-<details open>
-  <summary>Frontend</summary>
-  <br/>
   <p>
     <a href="https://htmx.org/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/HTMX-3d72d7?style=for-the-badge&logo=html5&logoColor=white" />
@@ -68,11 +63,6 @@
       <img align="center" src="https://img.shields.io/badge/Angular-DC0031?style=for-the-badge&logo=angular&logoColor=white" />
     </a>
   </p>
-</details>
-
-<details open>
-  <summary>Meta Frameworks</summary>
-  <br/>
   <p>
     <a href="https://astro.build/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Astro-f368e0?style=for-the-badge&logo=astro&logoColor=white" />
@@ -84,11 +74,6 @@
       <img align="center" src="https://img.shields.io/badge/ReactNative-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
     </a>
   </p>
-</details>
-
-<details open>
-  <summary>Backend and Database</summary>
-  <br/>
   <p>
     <a href="https://nodejs.org" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -115,11 +100,6 @@
       <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     </a>
   </p>
-</details>
-
-<details open>
-  <summary>CI and Deployment</summary>
-  <br/>
   <p>
     <a href="https://github.com/features/actions" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
@@ -129,38 +109,6 @@
     </a>
   </p>
 </details>
-
-<details open>
-  <summary>Tools</summary>
-  <br/>
-  <p>
-    <a href="https://git-scm.com/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    </a>
-    <a href="https://www.postman.com/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-    </a>
-  </p>
-</details>
-
-## Setup
-
-<p>
-  <b>💻  workspace</b><br/><br/>
-  <img src="https://img.shields.io/badge/mac_os-Big_Sur-%23F11651.svg?&style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-iris_plus%20650_1536_MB-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-</p>
-
-<p>
-  <b>🖱  Widgets</b><br/><br/>
-  <img src="https://img.shields.io/badge/Earphones-BOSE%20QuietComfort%2035%20II-%232D2B54.svg?&style=for-the-badge&logo=bose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Portable%20Monitor-MSI%20Optix%20MAG161V%2015.6-%232D2B54.svg?&style=for-the-badge&logo=msi&logoColor=white" />
-</p>
 
 ## Stats
 
