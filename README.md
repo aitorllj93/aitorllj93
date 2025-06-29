@@ -28,21 +28,6 @@
   <a href="https://www.linkedin.com/in/aitor-llamas-jimenez-3b760210a/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/3068081/aitorllj93" target="_blank">
-    <img src="https://img.shields.io/badge/stackoverflow-%23F58025.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <!-- a href="https:/twitter.com/dhwaj_gupta" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
-  </a>&nbsp;&nbsp; -->
-  <!-- <a href="https://instagram.com/aitor_llamas" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp; -->
-  <!-- <a href="https://www.twitch.tv/aitorllj93" target="_blank">
-    <img src="https://img.shields.io/badge/twitch-%23772CE8.svg?&style=for-the-badge&logo=twitch&logoColor=white" />        
-  </a>&nbsp;&nbsp; -->
-   <!-- a href="https://www.facebook.com/dhwaj.iitr" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
-  </a>&nbsp;&nbsp; -->
 </p>
 
 ## Tech Stacks
@@ -54,14 +39,8 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
       <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     </a>
-    <a href="https://pugjs.org/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/pug-A86454?style=for-the-badge&logo=pug&logoColor=white" />
-    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
       <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    </a>
-    <a href="https://sass-lang.com/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -103,12 +82,6 @@
     </a>
     <a href="https://reactnative.dev/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/ReactNative-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
-    </a>
-    <a href="https://ionicframework.com/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
-    </a>
-    <a href="https://capacitorjs.com/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
     </a>
   </p>
 </details>
@@ -153,9 +126,6 @@
     </a>
     <a href="https://azure.microsoft.com/es-es/products/devops" target="_blank">
       <img align="center" src="https://img.shields.io/badge/AzureDevops-0067b8?style=for-the-badge&logo=azure&logoColor=white" />
-    </a>
-    <a href="https://www.heroku.com/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
     </a>
   </p>
 </details>
